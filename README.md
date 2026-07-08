@@ -1,4 +1,5 @@
 # Workplace-Mental-Health-Productivity-Analysis
+Analysis exploring how employee mental health status, workplace support, and work model (remote/hybrid/on-site) relate to productivity and absenteeism.
 
 ## Problem Statement
 
@@ -20,7 +21,7 @@ Furthermore, despite the similar productivity levels across the work modes, our 
 
 ## Dashboard
 
-Dashboard-preview.png
+<img width="722" height="478" alt="dasboard preview" src="https://github.com/user-attachments/assets/3db324a9-8d54-4357-92f8-e4438db025f7" />
 
 ## What I would Explore Next
 
