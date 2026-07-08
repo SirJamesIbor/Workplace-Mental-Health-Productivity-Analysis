@@ -40,11 +40,10 @@ Work model, and employee support level
 
 ## Key Findings
 
-1. *That employee mental health status is strongly linked to workplace productivity*. Employees with no reported mental health condition had the highest average productivity score (7.24), while those reporting burnout, depression, and multiple conditions recorded the lowest on productivity (4.96 - 4.98 avg). **This suggests burnout,and multiple health conditions carry a distinct, more severe productivity cost than well-managed health conditions**.
-2. Similarly, findings revealed that Burnout (18.16%), Depression (18.05) and Multiple Conditions reported (18.32%) had the highest records of absenteeism days (18) per year on average, compared to 3 days/year for employees with no reported condition - **posing a 6x difference that directly translate to operational cost.**
-3. Employer support level showed little or no-effect on productivity, as scores stayed within a narrow 6.42 - 6.46 band regardless of whether employer support was rated Poor, Average, Good, or Excellent. This is a counter-intuitive finding worth flagging to stakeholders to suggest current "Support Level" may be helping wellbeing without addressing the specific drivers of burnout and absenteeism.
-4. From my analysis, the average productivity scores across the three work modes was the same, indicating that work mode has no significant influence on productivity. This suggests that work mode alone may not be a major determinant of productivity.
-Furthermore, despite the similar productivity levels across the work modes, our analysis shows that the Remote Work mode has a relatively higher work-life balance score and a lower burnout risk score compared to the other work modes.
+1. That employee mental health status is strongly linked to workplace productivity. Employees with no reported mental health condition had the highest average productivity score (7.24), while those reporting burnout, depression, and multiple conditions recorded the lowest on productivity (4.96 - 4.98 avg). *This suggests burnout,and multiple health conditions carry a distinct, more severe productivity cost than well-managed health conditions*.
+2. Similarly, findings revealed that Burnout (18.16%), Depression (18.05) and Multiple Conditions reported (18.32%) had the highest records of absenteeism days (18) per year on average, compared to 3 days/year for employees with no reported condition - *posing a 6x difference that directly translate to operational cost.*
+3. Employer support level showed little or no-effect on productivity, as scores stayed within a narrow 6.42 - 6.46 band regardless of whether employer support was rated Poor, Average, Good, or Excellent. This is a counter-intuitive finding worth flagging to stakeholders to suggest *current "Support Level" may be helping wellbeing without addressing the specific drivers of burnout and absenteeism.*
+4. The average productivity scores across the three work modes (Remote/Hybrid/On-site) was the same (6.4), indicating that work mode has no significant influence on productivity. Furthermore, Remote employees recorded the best work-life balance (6.9) and lowest Burnout risk (3.8) compared (6.2) and (4.1) for the other work modes respectively. *This suggest remote flexibility is a low-cost lever for wellbeing with no productivity trade-off.*
 
 ## Dashboard
 
@@ -52,7 +51,9 @@ Furthermore, despite the similar productivity levels across the work modes, our 
 
 ## What I would Explore Next
 
-My nest-steps thinking
+- **Statistical significance testing** using ANOVA or t-tests to confirm whether the productivity differences by condition and support level are statistically meaningful , and not just descriptive averages
+- **Segment the "Employer support" findings by industry or company size** - it is possible support programs work well in some contexts and not others, and the aggregate average is masking it.
+- **Time-based trend analysis** - with 5 years of data (2020 - 2025), tracking whether burnout/productivity patterns shifted post-pandemic as remote work adoption changed globally.
 
 
 
