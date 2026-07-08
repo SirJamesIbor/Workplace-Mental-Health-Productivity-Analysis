@@ -8,13 +8,13 @@ Organizations are increasingly aware that employee mental health affect business
 ## Data Source
 **Kaggle:** 10,000 employee records across 20 countries and 17 industries (2020-2025) covering 34 variables - 
 
-Mental health conditions and diagnosis status
+- Mental health conditions and diagnosis status
 
-Productivity, burnout risk, and work-life balance scores
+- Productivity, burnout risk, and work-life balance scores
 
-Absenteeism days per year
+- Absenteeism days per year
 
-Work model, and employee support level
+- Work model, and employee support level
 
 ## Method
 
@@ -34,7 +34,7 @@ Work model, and employee support level
 
 **Visualization**
 - Designed a single page executive dashboard combining KPIs summary cards with 3 comparative bar charts
-
+- **Slicer Interactivity:** Dashboard incorporates interactive slicers, enabling stakeholders to dynamically filter by work mode and mental health condition, supporting self-servive exploration beyond the static dashboard view. 
 
 **Excel/Power Bi:** Data cleaning (12,012 missing values handled), pivot tables, visualization and dashboard design
 
