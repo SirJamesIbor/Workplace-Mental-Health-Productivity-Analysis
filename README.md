@@ -18,12 +18,30 @@ Work model, and employee support level
 
 ## Method
 
+**Data Cleaning (Excel/Power-BI)**
+- Audited 10,000 records with 34 columns for duplicates, whitespace issues, and logic inconsistencies (0 found)
+
+- Standardized all column names (lowercase, underscore-separated) for consistency
+
+- Identified and resolved 12,012 missing values across 4 fields, using context-appropriate fills (e.g. "No Condition reported", Not      Applicable") rather than blanket deletion - preserving sample size and avoiding bias
+
+- Verified zero remaining missing values before analysis
+
+**Analysis (Pivot Table)**
+- Built 4 analysis views (Q1-Q4) isolating the relationship between mental health status, employer support, work model, and productivity/absenteeism outcomes
+  
+- Cross-referenced burnout risks and absenteeism by condition to separate correlation from noise
+
+**Visualization**
+- Designed a single page executive dashboard combining KPIs summary cards with 3 comparative bar charts
+
+
 **Excel/Power Bi:** Data cleaning (12,012 missing values handled), pivot tables, visualization and dashboard design
 
 ## Key Findings
 
-1. The findings indicate that employee mental health status significantly influences workplace productivity. Employees with no recorded mental health condition had the highest average productivity score
-2. The Descriptive analysis revealed that Burnout (18.16%), Depression (18.05) and Multiple Mental Health Conditions (18.32%) are positively associated with absenteeism. Employees with higher Burnout, Depression and Multiple Mental Health Conditions tend to record more days of absence from work. However, multiple conditions showed a slightly stronger association with absenteeism with a comparative (0.88%) than burnout. Therefore, multiple conditions appears to be the mental health factor most strongly associated with absenteeism among employees
+1. The findings indicates that employee mental health status is strongly linked to workplace productivity. Employees with no recorded mental health condition had the highest average productivity score
+2. Findings revealed that Burnout (18.16%), Depression (18.05) and Multiple Mental Health Conditions (18.32%) are positively associated with absenteeism, versus 3.1% for employees with no reported condition - a 6x difference that directly translate to operational cost. 
 3. From my analysis, the average productivity scores across the three work modes was the same, indicating that work mode has no significant influence on productivity. This suggests that work mode alone may not be a major determinant of productivity.
 Furthermore, despite the similar productivity levels across the work modes, our analysis shows that the Remote Work mode has a relatively higher work-life balance score and a lower burnout risk score compared to the other work modes.
 
