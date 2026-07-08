@@ -1,12 +1,20 @@
 # Workplace-Mental-Health-Productivity-Analysis
-Analysis exploring how employee mental health status, workplace support, and work model (remote/hybrid/on-site) relate to productivity and absenteeism.
+Organizations are increasingly aware that employee mental health affect business productivity, but few analysis quantify exactly to what percentage of effect it thus has. This project therefore investigate whether employee mental health status, workplace support, and work model (remote/hybrid/on-site) measurably affect productivity and absenteeism in the workplace - turning an HR/wellbeing conversation into  a data-backed case.
 
 ## Problem Statement
 
 The WHO estimates that depression and anxiety cost the global economy $1 trillion per year in lost productivity, yet many organizations lack structured mental health support.
 
 ## Data Source
-**Kaggle:** 10,000 employee records, 34 variables - mental health conditions, productivity, burnout risk, absenteeism, work model, and employee support metrics.
+**Kaggle:** 10,000 employee records across 20 countries and 17 industries (2020-2025) covering 34 variables - 
+
+Mental health conditions and diagnosis status
+
+Productivity, burnout risk, and work-life balance scores
+
+Absenteeism days per year
+
+Work model, and employee support level
 
 ## Method
 
