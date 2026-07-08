@@ -1,4 +1,4 @@
-# Workplace-Mental-Health-And-Productivity-Analysis
+# Workplace-Mental-Health-Productivity-Analysis
 Data analysis exploring how employee mental health status, workplace support, and work model (remote/hybrid/on-site) relates to workplace productivity and absenteeism.
 
 ## Problem Statement
