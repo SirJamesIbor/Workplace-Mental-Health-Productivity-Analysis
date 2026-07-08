@@ -47,7 +47,8 @@ Organizations are increasingly aware that employee mental health affect business
 
 ## Dashboard
 
-<img width="451" height="465" alt="dasboardpreview" src="https://github.com/user-attachments/assets/07969999-7061-4061-893b-58a0c0aacd57" />
+<img width="676" height="558" alt="dasboard-preview" src="https://github.com/user-attachments/assets/474c4aee-f05d-447e-b9b2-ed86cbb07ae5" />
+
 
 
 ## What I would Explore Next
