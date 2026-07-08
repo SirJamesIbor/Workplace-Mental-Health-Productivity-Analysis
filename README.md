@@ -47,7 +47,8 @@ Work model, and employee support level
 
 ## Dashboard
 
-<img width="722" height="478" alt="dasboard preview" src="https://github.com/user-attachments/assets/3db324a9-8d54-4357-92f8-e4438db025f7" />
+<img width="451" height="465" alt="dasboardpreview" src="https://github.com/user-attachments/assets/07969999-7061-4061-893b-58a0c0aacd57" />
+
 
 ## What I would Explore Next
 
