@@ -46,10 +46,7 @@ Organizations are increasingly aware that employee mental health affect business
 4. The average productivity scores across the three work modes (Remote/Hybrid/On-site) was the same (6.4), indicating that work mode has no significant influence on productivity. Furthermore, Remote employees recorded the best work-life balance (6.9) and lowest Burnout risk (3.8) compared (6.2) and (4.1) for the other work modes respectively. *This suggest remote flexibility is a low-cost lever for wellbeing with no productivity trade-off.*
 
 ## Dashboard
-
-<img width="676" height="558" alt="dasboard-preview" src="https://github.com/user-attachments/assets/474c4aee-f05d-447e-b9b2-ed86cbb07ae5" />
-
-
+<img width="451" height="465" alt="dasboardpreview" src="https://github.com/user-attachments/assets/518e36f2-b43e-4684-b9bf-ab6e361d4a29" />
 
 ## What I would Explore Next
 
