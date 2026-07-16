@@ -45,7 +45,7 @@ Organizations are increasingly aware that employee mental health affect business
 3. Employer support level showed little or no-effect on productivity, as scores stayed within a narrow 6.42 - 6.46 band regardless of whether employer support was rated Poor, Average, Good, or Excellent. This is a counter-intuitive finding worth flagging to stakeholders to suggest *current "Support Level" may be helping wellbeing without addressing the specific drivers of burnout and absenteeism.*
 4. The average productivity scores across the three work modes (Remote/Hybrid/On-site) was the same (6.4), indicating that work mode has no significant influence on productivity. Furthermore, Remote employees recorded the best work-life balance (6.9) and lowest Burnout risk (3.8) compared (6.2) and (4.1) for the other work modes respectively. *This suggest remote flexibility is a low-cost lever for wellbeing with no productivity trade-off.*
 
-## Dashboard
+## Dashboard Preview
 <img width="444" height="450" alt="Mental_Health_Workplace_Analysis_Dashboard" src="https://github.com/user-attachments/assets/3e315a82-d3d1-4bd4-bdf1-c827f7ed8cfb" />
 
 ## What I would Explore Next
