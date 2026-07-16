@@ -18,7 +18,7 @@ Organizations are increasingly aware that employee mental health affect business
 
 ## Method
 
-**Data Cleaning (Excel/Power-BI)**
+**Data Cleaning (Excel)**
 - Audited 10,000 records with 34 columns for duplicates, whitespace issues, and logic inconsistencies (0 found)
 
 - Standardized all column names (lowercase, underscore-separated) for consistency
@@ -36,7 +36,7 @@ Organizations are increasingly aware that employee mental health affect business
 - Designed a single page executive dashboard combining KPIs summary cards with 3 comparative bar charts
 - **Slicer Interactivity:** Dashboard incorporates interactive slicers, enabling stakeholders to dynamically filter by work mode and mental health condition, supporting self-servive exploration beyond the static dashboard view. 
 
-**Excel/Power Bi:** Data cleaning (12,012 missing values handled), pivot tables, visualization and dashboard design
+**Excel:** Data cleaning (12,012 missing values handled), pivot tables, visualization and dashboard design
 
 ## Key Findings
 
